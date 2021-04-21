@@ -1,0 +1,9 @@
+export { default as Home } from "./Home";
+export { default as GalleryPage } from "./GalleryPage";
+export { default as GalleryCategory } from "./GalleryCategory";
+export { default as Contact } from "./Contact";
+export { default as About } from "./About";
+export { default as NotFound } from "./NotFound";
+export { default as Dashboard } from "./Dashboard";
+export { default as Signin } from "./Signin";
+export { default as PasswordReset } from "./PasswordReset";
