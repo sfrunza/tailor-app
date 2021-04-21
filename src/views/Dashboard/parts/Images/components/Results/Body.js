@@ -8,8 +8,6 @@ import {
   Dialog,
   DialogTitle,
   DialogActions,
-  DialogContent,
-  DialogContentText,
   Button
 } from "@material-ui/core";
 import { Trash2 as Trash2Icon } from "react-feather";
