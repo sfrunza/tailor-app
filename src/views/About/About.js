@@ -87,7 +87,7 @@ const About = () => {
         }
         rightSide={
           <Image
-            src="https://st4.depositphotos.com/1046535/21413/i/1600/depositphotos_214132132-stock-photo-female-tailor-cutting-fabric.jpg"
+            src="https://www.marketingdonut.co.uk/sites/default/files/production/image/dressmaker.jpg"
             className={classes.image}
             lazy={false}
           />
