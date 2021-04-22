@@ -42,7 +42,7 @@ const useStyles = makeStyles(theme => ({
 const About = () => {
   const classes = useStyles();
   const line1 =
-    "TailorMadeBoston Is a unique based luxurious hand-made wedding and evening gowns tailoring company. We strive to satisfy the most glamorous and demanding expectations of our sophisticated Clientele throughout the world. Outstanding craftsmanship, superior service, and exceptional quality are the driving force behind Tatiana Safronova brand. We proudly ensure that every detail of custom-tailored gown gives an unexcelled experience and makes you inimitable at your most important day.";
+    "Tailor Made Is a unique based luxurious hand-made wedding and evening gowns tailoring company. We strive to satisfy the most glamorous and demanding expectations of our sophisticated Clientele throughout the world. Outstanding craftsmanship, superior service, and exceptional quality are the driving force behind Tatiana Safronova brand. We proudly ensure that every detail of custom-tailored gown gives an unexcelled experience and makes you inimitable at your most important day.";
   const line2 =
     "Tatiana has been working with clients for over 20 years, crafts custom-tailor wedding dresses and women's clothing made of leather fabric and fur.";
 
