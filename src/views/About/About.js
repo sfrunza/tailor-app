@@ -5,6 +5,7 @@ import { SectionHeader } from "components/molecules";
 import { HeroShaped } from "components/organisms";
 import { Button, Typography } from "@material-ui/core";
 import { Link as RouterLink } from "react-router-dom";
+import about from "assets/images/about.jpeg";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -85,13 +86,7 @@ const About = () => {
             />
           </div>
         }
-        rightSide={
-          <Image
-            src="https://st4.depositphotos.com/1046535/21413/i/1600/depositphotos_214132132-stock-photo-female-tailor-cutting-fabric.jpg"
-            className={classes.image}
-            lazy={false}
-          />
-        }
+        rightSide={<Image src={about} className={classes.image} lazy={false} />}
       />
     </div>
   );
